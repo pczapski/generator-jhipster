@@ -60,7 +60,7 @@
     "tabtab": "2.2.2",
     "yeoman-environment": "1.6.6",
     "yeoman-generator": "1.1.1",
-    "yo": "1.8.5"
+    "yo": "2.0.0"
   },
   "devDependencies": {
     "eslint": "3.19.0",
